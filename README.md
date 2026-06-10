@@ -14,7 +14,7 @@
 
 **A Backend Developer passionate about Node.js & Java**
 
-- 🔭 Built [**VetCrack.com**](https://vetcrack.com) — web application security auditing platform
+- 🔭 Built [**VetCrack.com**](https://vetcrack.com) — comprehensive full-stack veterinary knowledge & education platform
 - 🔭 Currently building APIs & backend services with Node.js and Java
 - 🌱 Exploring microservices, system design & distributed systems
 - ⚡ Love crafting REST APIs, GraphQL, and event-driven architectures
@@ -33,6 +33,12 @@
 ![Java](https://skillicons.dev/icons?i=java&theme=dark)
 ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
 ![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)
+![Python](https://skillicons.dev/icons?i=py&theme=dark)
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
 
 **Backend & Frameworks**
 
@@ -58,6 +64,7 @@
 ![Nginx](https://skillicons.dev/icons?i=nginx&theme=dark)
 ![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
 ![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
+![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)
 
 ---
 
@@ -76,22 +83,11 @@
 
 ## 📌 Projects
 
-### [Tinylite](https://github.com/ayushdixit1-av/tinylite)
-Redis-compatible KV store from scratch — RESP protocol, async TCP, TTL, AOF, pub/sub
-
-![Python](https://skillicons.dev/icons?i=py&theme=dark)
-
-### [VetCrack](https://vetcrack.com)
-Web application security auditing platform — automated recon, scanning & reporting
-
-![Python](https://skillicons.dev/icons?i=py&theme=dark)
-![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
-
-### [OS3C](https://github.com/ayushdixit1-av/os3c)
-Open Source Security Command Center — Nmap, Nuclei, Subfinder, Amass, Katana
-
-![Python](https://skillicons.dev/icons?i=py&theme=dark)
-![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**VetCrack**](https://vetcrack.com) | Comprehensive full-stack veterinary knowledge & education platform. Features: course management, knowledge base, AI chat assistant (Groq), tests & MCQs, notes system, medicine database, payment integration (Razorpay), blog platform, admin dashboard, Firebase auth, credit system, SEO & analytics, full-text search | Node.js, Express, React, TypeScript, Vite, Firebase, Groq, Razorpay, PostgreSQL, MongoDB |
+| [**Tinylite**](https://github.com/ayushdixit1-av/tinylite) | Redis-compatible in-memory KV store from scratch — RESP protocol, async TCP server, TTL-based expiration, AOF persistence, pub/sub messaging | Python |
+| [**OS3C**](https://github.com/ayushdixit1-av/os3c) | Open Source Security Command Center — browser dashboard orchestrating Nmap, Nuclei, Subfinder, Amass, Httpx, Katana for automated recon & scanning | Python, Docker |
 
 ---
 
@@ -103,8 +99,8 @@ Open Source Security Command Center — Nmap, Nuclei, Subfinder, Amass, Katana
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushdixit)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmasanchitrishi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-dixit-0b789230b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushdixitvsecpanki@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushdixit1-av)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ayushdixit1-av)
 
