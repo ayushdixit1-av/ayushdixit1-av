@@ -77,7 +77,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdixit1-av&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ayushdixit1-av&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117)
+
 
 ---
 
