@@ -14,13 +14,15 @@
 
 **A Backend Developer passionate about Node.js & Java**
 
-- 🔭 Built [**VetCrack.com**](https://vetcrack.com) — comprehensive full-stack veterinary knowledge & education platform
-- 🔭 Currently building APIs & backend services with Node.js and Java
-- 🌱 Exploring microservices, system design & distributed systems
-- ⚡ Love crafting REST APIs, GraphQL, and event-driven architectures
-- 🎯 Goal: Build scalable, robust backend systems that power great products
-- 💬 Ask me about Node.js, Java, Spring Boot, databases, Docker
-- ☕ Powered by curiosity and lots of coffee
+<p style="font-size: 18px; line-height: 1.8;">
+🔭 Built <b><a href="https://vetcrack.com">VetCrack.com</a></b> — comprehensive full-stack veterinary knowledge & education platform<br>
+🔭 Currently building APIs & backend services with Node.js and Java<br>
+🌱 Exploring microservices, system design & distributed systems<br>
+⚡ Love crafting REST APIs, GraphQL, and event-driven architectures<br>
+🎯 Goal: Build scalable, robust backend systems that power great products<br>
+💬 Ask me about Node.js, Java, Spring Boot, databases, Docker<br>
+☕ Powered by curiosity and lots of coffee
+</p>
 
 ---
 
