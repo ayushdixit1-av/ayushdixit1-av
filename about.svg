@@ -42,7 +42,7 @@
   <!-- Line 1: VetCrack -->
   <text x="35" y="78" font-family="monospace" font-size="17" fill="#e6edf3" class="l1">
     <tspan font-size="20">🔭</tspan>
-    <tspan fill="#58A6FF" font-weight="bold"> VetCrack.com</tspan>
+    <tspan fill="#58A6FF" font-weight="bold" text-decoration="underline"><a href="https://vetcrack.com" target="_blank" style="fill:#58A6FF;"> VetCrack.com</a></tspan>
     <tspan fill="#8b949e"> — comprehensive full-stack veterinary</tspan>
   </text>
   <text x="73" y="102" font-family="monospace" font-size="17" fill="#8b949e" class="l1">
