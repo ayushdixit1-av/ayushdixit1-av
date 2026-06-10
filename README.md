@@ -74,7 +74,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushdixit1-av&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdixit1-av&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ayushdixit1-av&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=5)
+
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ayushdixit1-av&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117)
 
 ---
@@ -100,13 +100,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-dixit-0b789230b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushdixitvsecpanki@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushdixit1-av)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ayushdixit1-av)
+
 
 ---
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ayushdixit1-av&label=Profile%20Views&icon=5&color=58A6FF)
 
 ---
 
