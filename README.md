@@ -70,7 +70,7 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushdixit1-av&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&rank_icon=github&include_all_commits=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ayushdixit1-av&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushdixit1-av&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
