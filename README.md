@@ -6,15 +6,15 @@
 
 # 💫 About Me:
 
-### A Systems Engineer passionate about Security Tooling & Infrastructure
+### A Backend Developer passionate about Node.js & Java
 
-#### 💻 I enjoy working with: Python | C | Java | TypeScript | Git & GitHub | Open-Source  
+#### 💻 I enjoy working with: Node.js | Java | Express | Spring Boot | Git & GitHub | Open-Source  
   
-🔍 Curious about: Security, backend development, distributed systems, open-source tools  
+🔍 Curious about: Backend architecture, REST APIs, microservices, databases, system design  
   
-🛠 Currently building tinylite (Redis-compatible KV store) and security automation tools  
+🛠 Currently building APIs and backend services with Node.js and Java  
   
-🎯 Goal: Build infrastructure and security tools from first principles  
+🎯 Goal: Build scalable, robust backend systems that power great products  
   
 ☕ Powered by curiosity and lots of coffee  
   
@@ -40,19 +40,20 @@
 
 ## 💻 My favorite tools and technologies
 
-[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev/icons?i=py)
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev/icons?i=c)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev/icons?i=nodejs)
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev/icons?i=java)
+[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev/icons?i=express)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev/icons?i=spring)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev/icons?i=ts)
-[![SQL](https://skillicons.dev/icons?i=sql)](https://skillicons.dev/icons?i=sql)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev/icons?i=docker)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev/icons?i=linux)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev/icons?i=js)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev/icons?i=postgres)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev/icons?i=mongodb)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev/icons?i=redis)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev/icons?i=docker)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev/icons?i=git)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev/icons?i=github)
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev/icons?i=html)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev/icons?i=css)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev/icons?i=linux)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev/icons?i=mysql)
 
 ## 🚀 Lifetime Contribution
 
