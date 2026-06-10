@@ -22,8 +22,6 @@
 - 💬 Ask me about Node.js, Java, Spring Boot, databases, Docker
 - ☕ Powered by curiosity and lots of coffee
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ayushdixit1-av&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&rank_icon=github)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -70,8 +68,8 @@
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ayushdixit1-av&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true)
-![Streak](https://streak-stats.demolab.com/?user=ayushdixit1-av&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushdixit1-av&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&rank_icon=github&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ayushdixit1-av&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushdixit1-av&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdixit1-av&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
@@ -112,6 +110,6 @@
 
 ---
 
-![Status](https://img.shields.io/badge/Status-Building_Cool_Things-58A6FF?style=flat-square)
-![Status](https://img.shields.io/badge/Open_to-Collaboration-7EE787?style=flat-square)
-![Status](https://img.shields.io/badge/Learning-Always-FFA657?style=flat-square)
+![Building](https://img.shields.io/badge/Status-Building_Cool_Things-58A6FF?style=flat-square)
+![Collaboration](https://img.shields.io/badge/Open_to-Collaboration-7EE787?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning-Always-FFA657?style=flat-square)
