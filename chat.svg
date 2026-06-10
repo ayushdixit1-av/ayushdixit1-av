@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100">
+  <style>
+    @keyframes typing {
+      0% { width: 0; }
+      50% { width: 100%; }
+      100% { width: 100%; }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .line1 { animation: typing 3s steps(40) forwards, blink 0.8s step-end 3s; overflow: hidden; white-space: nowrap; }
+    .cursor { animation: blink 0.8s step-end infinite; }
+  </style>
+  <rect width="800" height="100" fill="#0d1117" rx="12"/>
+  <text x="30" y="45" font-family="monospace" font-size="20" fill="#58a6ff">
+    <tspan>$ </tspan>
+    <tspan fill="#7ee787">Systems Engineer</tspan>
+    <tspan fill="#8b949e"> | </tspan>
+    <tspan fill="#d2a8ff">Security Tooling</tspan>
+  </text>
+  <text x="30" y="75" font-family="monospace" font-size="16" fill="#8b949e">
+    <tspan>$ </tspan>
+    <tspan fill="#ffa657">Building infra from first principles</tspan>
+    <tspan fill="#8b949e" class="cursor"> ▊</tspan>
+  </text>
+  <circle cx="750" cy="25" r="6" fill="#3fb950" opacity="0.8"/>
+</svg>
