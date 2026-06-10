@@ -23,6 +23,7 @@
     <td width="55%">
       <h3>A Backend Developer passionate about Node.js & Java</h3>
       <ul>
+        <li>🔭 Built <b><a href="https://vetcrack.com">VetCrack.com</a></b> — web application security auditing platform</li>
         <li>🔭 Currently building <b>APIs & backend services</b> with Node.js and Java</li>
         <li>🌱 Exploring <b>microservices, system design & distributed systems</b></li>
         <li>⚡ Love crafting <b>REST APIs, GraphQL, and event-driven architectures</b></li>
@@ -67,7 +68,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushdixit1-av&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&rank_icon=github&include_all_commits=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdixit1-av&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  <img width="48%" src="https://streak-stats.demolab.com/?user=ayushdixit1-av&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </p>
 
 <p align="center">
@@ -97,6 +98,18 @@
       <p align="center"><img src="https://skillicons.dev/icons?i=py&theme=dark" height="25"/></p>
     </td>
     <td width="50%">
+      <h3 align="center">VetCrack</h3>
+      <p align="center">
+        <a href="https://vetcrack.com">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushdixit1-av&repo=vet-project&theme=dark&hide_border=true&bg_color=0d1117" width="400"/>
+        </a>
+      </p>
+      <p align="center">Web application security auditing platform — automated recon, scanning & reporting</p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=py,docker&theme=dark" height="25"/></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">OS3C</h3>
       <p align="center">
         <a href="https://github.com/ayushdixit1-av/os3c">
@@ -105,6 +118,9 @@
       </p>
       <p align="center">Security Command Center — Nmap, Nuclei, Subfinder, Amass, Katana</p>
       <p align="center"><img src="https://skillicons.dev/icons?i=py,docker&theme=dark" height="25"/></p>
+    </td>
+    <td width="50%">
+      <!-- placeholder -->
     </td>
   </tr>
 </table>
