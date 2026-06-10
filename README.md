@@ -1,4 +1,4 @@
-# Hi, I'm Ayush Dixit (@ayushdixit1-av from India)
+# Hi, I'm Ayush Dixit 
 
 ### Hi there 👋
 
