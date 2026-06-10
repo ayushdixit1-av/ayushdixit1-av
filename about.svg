@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="320" fill="url(#bg)" rx="12"/>
+  <rect x="0" y="0" width="6" height="320" fill="url(#accent)" rx="3"/>
+  <rect x="15" y="15" width="870" height="290" fill="none" stroke="#21262d" stroke-width="1" rx="8"/>
+
+  <style>
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+    @keyframes fadeLine { 0%{opacity:0;transform:translateY(8px)} 100%{opacity:1;transform:translateY(0)} }
+    @keyframes type { 0%{width:0} 100%{width:100%} }
+    .blink { animation: blink 0.8s step-end infinite }
+    .l1 { animation: fadeLine 0.4s ease-out 0.3s both; overflow:hidden }
+    .l2 { animation: fadeLine 0.4s ease-out 1.2s both }
+    .l3 { animation: fadeLine 0.4s ease-out 2.1s both }
+    .l4 { animation: fadeLine 0.4s ease-out 3.0s both }
+    .l5 { animation: fadeLine 0.4s ease-out 3.9s both }
+    .l6 { animation: fadeLine 0.4s ease-out 4.8s both }
+    .l7 { animation: fadeLine 0.4s ease-out 5.7s both }
+  </style>
+
+  <!-- Title -->
+  <text x="35" y="42" font-family="monospace" font-size="13" fill="#8b949e">
+    <tspan fill="#58a6ff">ayush@github</tspan><tspan fill="#8b949e">:~$ </tspan>
+    <tspan fill="#ffa657">./show-about.sh</tspan>
+    <animate attributeName="opacity" values="0;1" dur="0.3s" fill="freeze"/>
+  </text>
+
+  <!-- Line 1: VetCrack -->
+  <text x="35" y="78" font-family="monospace" font-size="17" fill="#e6edf3" class="l1">
+    <tspan font-size="20">🔭</tspan>
+    <tspan fill="#58A6FF" font-weight="bold"> VetCrack.com</tspan>
+    <tspan fill="#8b949e"> — comprehensive full-stack veterinary</tspan>
+  </text>
+  <text x="73" y="102" font-family="monospace" font-size="17" fill="#8b949e" class="l1">
+    knowledge &amp; education platform
+  </text>
+
+  <!-- Line 2 -->
+  <text x="35" y="135" font-family="monospace" font-size="17" fill="#e6edf3" class="l2">
+    <tspan font-size="20">🔭</tspan>
+    <tspan> Currently building APIs &amp; backend services </tspan>
+    <tspan fill="#7ee787">with Node.js and Java</tspan>
+  </text>
+
+  <!-- Line 3 -->
+  <text x="35" y="165" font-family="monospace" font-size="17" fill="#e6edf3" class="l3">
+    <tspan font-size="20">🌱</tspan>
+    <tspan> Exploring </tspan>
+    <tspan fill="#d2a8ff">microservices, system design &amp; distributed systems</tspan>
+  </text>
+
+  <!-- Line 4 -->
+  <text x="35" y="195" font-family="monospace" font-size="17" fill="#e6edf3" class="l4">
+    <tspan font-size="20">⚡</tspan>
+    <tspan> Love crafting </tspan>
+    <tspan fill="#ffa657">REST APIs, GraphQL, and event-driven architectures</tspan>
+  </text>
+
+  <!-- Line 5 -->
+  <text x="35" y="225" font-family="monospace" font-size="17" fill="#e6edf3" class="l5">
+    <tspan font-size="20">🎯</tspan>
+    <tspan> Goal: Build </tspan>
+    <tspan fill="#7ee787">scalable, robust backend systems</tspan>
+    <tspan> that power great products</tspan>
+  </text>
+
+  <!-- Line 6 -->
+  <text x="35" y="255" font-family="monospace" font-size="17" fill="#e6edf3" class="l6">
+    <tspan font-size="20">💬</tspan>
+    <tspan> Ask me about </tspan>
+    <tspan fill="#58A6FF">Node.js, Java, Spring Boot, databases, Docker</tspan>
+  </text>
+
+  <!-- Line 7 -->
+  <text x="35" y="285" font-family="monospace" font-size="17" fill="#e6edf3" class="l7">
+    <tspan font-size="20">☕</tspan>
+    <tspan> Powered by curiosity and lots of coffee</tspan>
+    <tspan fill="#8b949e" class="blink"> ▊</tspan>
+  </text>
+
+  <!-- Corner decor -->
+  <rect x="15" y="306" width="30" height="2" fill="#30363d" rx="1"/>
+  <rect x="48" y="306" width="15" height="2" fill="#21262d" rx="1"/>
+</svg>

@@ -14,15 +14,7 @@
 
 **A Backend Developer passionate about Node.js & Java**
 
-<div align="left" style="font-size: 20px; line-height: 2.2; padding: 10px 20px; border-left: 4px solid #58A6FF; background: #0d1117; border-radius: 8px;">
-  <b>🔭 <a href="https://vetcrack.com" style="color: #58A6FF; text-decoration: none;">VetCrack.com</a></b> — comprehensive full-stack veterinary knowledge & education platform<br>
-  <b>🔭</b> Currently building APIs & backend services with Node.js and Java<br>
-  <b>🌱</b> Exploring microservices, system design & distributed systems<br>
-  <b>⚡</b> Love crafting REST APIs, GraphQL, and event-driven architectures<br>
-  <b>🎯</b> Goal: Build scalable, robust backend systems that power great products<br>
-  <b>💬</b> Ask me about Node.js, Java, Spring Boot, databases, Docker<br>
-  <b>☕</b> Powered by curiosity and lots of coffee
-</div>
+![about](about.svg)
 
 ---
 
