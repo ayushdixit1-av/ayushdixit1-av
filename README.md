@@ -26,32 +26,89 @@
 
 ---
 
-### 🏆 Featured Project
+### 🏆 Projects
 
 <div align="center">
 
-<a href="https://github.com/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ayushdixit1-av/VetCrack">
 <div style="border: 2px solid #e94560; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 50%, #16213e 100%); box-shadow: 0 4px 15px rgba(233,69,96,0.3);">
 
 ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                                                              ║
-  ║   🛡️  Transformer-based End-to-End                          ║
-  ║       Web Application Firewall (WAF) Pipeline               ║
-  ║                                                              ║
-  ║   🧠 Self-Attention    ⚡ Real-Time    🌐 REST API          ║
-  ║   📊 98.5% F1 Score    🐳 Docker       🔬 Explainable       ║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════╗
+║  🐾 VetCrack                 ║
+║  AI-Powered Exam Prep        ║
+║  Platform for Vets           ║
+╠══════════════════════════════╣
+║  🧠 LLM-powered Q&A          ║
+║  📊 Adaptive Difficulty       ║
+║  🌐 Full Stack Web App        ║
+╚══════════════════════════════╝
 ```
 
-[![Stars](https://img.shields.io/github/stars/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline?style=for-the-badge&color=e94560)](https://github.com/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline/stargazers)
-[![Forks](https://img.shields.io/github/forks/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline?style=for-the-badge&color=533483)](https://github.com/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline/network/members)
-[![Issues](https://img.shields.io/github/issues/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline?style=for-the-badge&color=0f3460)](https://github.com/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline/issues)
-[![PRs](https://img.shields.io/github/issues-pr/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline?style=for-the-badge&color=27ae60)](https://github.com/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline/pulls)
+![Stars](https://img.shields.io/github/stars/ayushdixit1-av/VetCrack?style=flat-square&color=e94560)
+![Forks](https://img.shields.io/github/forks/ayushdixit1-av/VetCrack?style=flat-square&color=533483)
+![Issues](https://img.shields.io/github/issues/ayushdixit1-av/VetCrack?style=flat-square&color=0f3460)
 
 </div>
 </a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline">
+<div style="border: 2px solid #533483; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #16213e 50%, #1a1a2e 100%); box-shadow: 0 4px 15px rgba(83,52,131,0.3);">
+
+```
+╔══════════════════════════════╗
+║  🛡️ WAF Transformer          ║
+║  Transformer-based           ║
+║  Web App Firewall            ║
+╠══════════════════════════════╣
+║  🧠 Self-Attention Detection  ║
+║  ⚡ Real-Time Inference        ║
+║  📊 98.5% F1 Score            ║
+╚══════════════════════════════╝
+```
+
+![Stars](https://img.shields.io/github/stars/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline?style=flat-square&color=e94560)
+![Forks](https://img.shields.io/github/forks/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline?style=flat-square&color=533483)
+![Issues](https://img.shields.io/github/issues/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline?style=flat-square&color=0f3460)
+
+</div>
+</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+<a href="https://github.com/ayushdixit1-av/Distributed-Task-Queue">
+<div style="border: 2px solid #0f3460; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 50%, #0f3460 100%); box-shadow: 0 4px 15px rgba(15,52,96,0.3); max-width: 500px; margin: 0 auto;">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  ⚡ Distributed Task Queue                            ║
+║  Scalable Async Task Processing System               ║
+╠══════════════════════════════════════════════════════╣
+║  🔄 Redis-backed Job Queue     📈 Horizontal Scale   ║
+║  🐳 Docker Ready              🔌 REST API Interface  ║
+╚══════════════════════════════════════════════════════╝
+```
+
+![Stars](https://img.shields.io/github/stars/ayushdixit1-av/Distributed-Task-Queue?style=flat-square&color=e94560)
+![Forks](https://img.shields.io/github/forks/ayushdixit1-av/Distributed-Task-Queue?style=flat-square&color=533483)
+![Issues](https://img.shields.io/github/issues/ayushdixit1-av/Distributed-Task-Queue?style=flat-square&color=0f3460)
+
+</div>
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -88,6 +145,7 @@
 #### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -136,27 +194,6 @@
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/ayushdixit1-av/ayushdixit1-av/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-</div>
-
----
-
-### 🎯 Roadmap
-
-<div align="center">
-
-```mermaid
-timeline
-    title 🚀 WAF Transformer - Development Journey
-    section 📥 Phase 1 - Data Pipeline
-        CICIDS 2017 Loader : BPE Tokenizer : HTTP Preprocessor
-    section 🧠 Phase 2 - Core Model
-        Transformer Encoder : Classification Head : Training Loop
-    section 🌐 Phase 3 - API & Deploy
-        FastAPI Server : Docker Container : K8s Ready
-    section 📊 Phase 4 - Evaluation
-        Per-Class Metrics : Attention Viz : Benchmark vs Rule-Based
-```
 
 </div>
 
