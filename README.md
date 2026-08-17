@@ -61,17 +61,28 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
+## 📊 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushdixit1-av&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdixit1-av&bg_color=0d1117&color=e94560&line=533483&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=ayushdixit1-av&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
-## 🏅 Trophies
+## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushdixit1-av&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdixit1-av&bg_color=0d1117&color=e94560&line=533483&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" width="100%"/>
+</p>
+
+## 🔥 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushdixit1-av&color=e94560&style=flat-square&label=PROFILE+VIEWS&label_color=0d1117"/>
+</p>
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 </p>
 
 ## 🤝 Connect with Me
