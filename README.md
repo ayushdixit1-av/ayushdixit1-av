@@ -30,7 +30,7 @@
 
 | | Project | Tech Stack | Description |
 |---|---|---|---|
-| 🐾 | [**VetCrack**](https://github.com/ayushdixit1-av/VetCrack) | `Python` `LLM` `React` | AI-Powered Exam Prep Platform for Veterinary Students |
+| 🐾 | [**VetCrack**](https://vetcrack.com) | `Python` `LLM` `React` | AI-Powered Exam Prep Platform for Veterinary Students |
 | 🛡️ | [**WAF Transformer**](https://github.com/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline) | `PyTorch` `FastAPI` `Docker` | Transformer-based End-to-End Web Application Firewall |
 | ⚡ | [**Distributed Task Queue**](https://github.com/ayushdixit1-av/Distributed-Task-Queue) | `Redis` `Python` `Docker` | Scalable Async Task Processing System |
 
@@ -111,16 +111,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ayushdixit1-av/ayushdixit1-av/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-</div>
-
----
-
 ### 💡 Random Dev Quote
 
 <div align="center">
@@ -145,9 +135,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://)
-
----
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-snake-dark.svg" width="100%"/>
 
 </div>
