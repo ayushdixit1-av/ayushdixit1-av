@@ -28,89 +28,11 @@
 
 ### 🏆 Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ayushdixit1-av/VetCrack">
-<div style="border: 2px solid #e94560; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 50%, #16213e 100%); box-shadow: 0 4px 15px rgba(233,69,96,0.3);">
-
-```
-╔══════════════════════════════╗
-║  🐾 VetCrack                 ║
-║  AI-Powered Exam Prep        ║
-║  Platform for Vets           ║
-╠══════════════════════════════╣
-║  🧠 LLM-powered Q&A          ║
-║  📊 Adaptive Difficulty       ║
-║  🌐 Full Stack Web App        ║
-╚══════════════════════════════╝
-```
-
-![Stars](https://img.shields.io/github/stars/ayushdixit1-av/VetCrack?style=flat-square&color=e94560)
-![Forks](https://img.shields.io/github/forks/ayushdixit1-av/VetCrack?style=flat-square&color=533483)
-![Issues](https://img.shields.io/github/issues/ayushdixit1-av/VetCrack?style=flat-square&color=0f3460)
-
-</div>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline">
-<div style="border: 2px solid #533483; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #16213e 50%, #1a1a2e 100%); box-shadow: 0 4px 15px rgba(83,52,131,0.3);">
-
-```
-╔══════════════════════════════╗
-║  🛡️ WAF Transformer          ║
-║  Transformer-based           ║
-║  Web App Firewall            ║
-╠══════════════════════════════╣
-║  🧠 Self-Attention Detection  ║
-║  ⚡ Real-Time Inference        ║
-║  📊 98.5% F1 Score            ║
-╚══════════════════════════════╝
-```
-
-![Stars](https://img.shields.io/github/stars/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline?style=flat-square&color=e94560)
-![Forks](https://img.shields.io/github/forks/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline?style=flat-square&color=533483)
-![Issues](https://img.shields.io/github/issues/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline?style=flat-square&color=0f3460)
-
-</div>
-</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-
-<a href="https://github.com/ayushdixit1-av/Distributed-Task-Queue">
-<div style="border: 2px solid #0f3460; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1a2e 50%, #0f3460 100%); box-shadow: 0 4px 15px rgba(15,52,96,0.3); max-width: 500px; margin: 0 auto;">
-
-```
-╔══════════════════════════════════════════════════════╗
-║  ⚡ Distributed Task Queue                            ║
-║  Scalable Async Task Processing System               ║
-╠══════════════════════════════════════════════════════╣
-║  🔄 Redis-backed Job Queue     📈 Horizontal Scale   ║
-║  🐳 Docker Ready              🔌 REST API Interface  ║
-╚══════════════════════════════════════════════════════╝
-```
-
-![Stars](https://img.shields.io/github/stars/ayushdixit1-av/Distributed-Task-Queue?style=flat-square&color=e94560)
-![Forks](https://img.shields.io/github/forks/ayushdixit1-av/Distributed-Task-Queue?style=flat-square&color=533483)
-![Issues](https://img.shields.io/github/issues/ayushdixit1-av/Distributed-Task-Queue?style=flat-square&color=0f3460)
-
-</div>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
+| | Project | Tech Stack | Description |
+|---|---|---|---|
+| 🐾 | [**VetCrack**](https://github.com/ayushdixit1-av/VetCrack) | `Python` `LLM` `React` | AI-Powered Exam Prep Platform for Veterinary Students |
+| 🛡️ | [**WAF Transformer**](https://github.com/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline) | `PyTorch` `FastAPI` `Docker` | Transformer-based End-to-End Web Application Firewall |
+| ⚡ | [**Distributed Task Queue**](https://github.com/ayushdixit1-av/Distributed-Task-Queue) | `Redis` `Python` `Docker` | Scalable Async Task Processing System |
 
 ---
 
