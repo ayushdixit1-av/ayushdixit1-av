@@ -71,6 +71,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdixit1-av&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdixit1-av&bg_color=0d1117&color=e94560&line=533483&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" width="100%"/>
+</p>
+
 ## 🤝 Connect with Me
 
 <p align="center">
