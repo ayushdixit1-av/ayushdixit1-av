@@ -7,6 +7,9 @@
   <a href="mailto:ayushdixitvsecpanki@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ayushdixitvsecpanki-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://ayushdixit1-av.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Ayush%20Dixit-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ## 🚀 About Me
@@ -15,6 +18,7 @@
 - 🧠 Deep interest in using Transformers / deep learning for real-time threat detection
 - ⚙️ Comfortable across the stack — from distributed backend systems to security tooling
 - 🌱 Currently exploring low-level system design and production-grade ML pipelines
+- 🌐 Check out my portfolio: **[ayushdixit1-av.github.io](https://ayushdixit1-av.github.io/)**
 - 📫 Reach me at ayushdixitvsecpanki@gmail.com
 
 ## 🛠️ Tech Stack
@@ -93,6 +97,9 @@
   </a>
   <a href="mailto:ayushdixitvsecpanki@gmail.com">
     <img src="https://img.shields.io/badge/-ayushdixitvsecpanki@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://ayushdixit1-av.github.io/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white"/>
   </a>
 </p>
 
