@@ -68,10 +68,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdixit1-av&bg_color=0d1117&color=e94560&line=533483&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" width="49%"/>
 </p>
 
-## 📈 Contribution Graph
+## 🏅 Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdixit1-av&bg_color=0d1117&color=e94560&line=533483&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushdixit1-av&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
 </p>
 
 ## 🤝 Connect with Me
