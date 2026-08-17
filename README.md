@@ -1,139 +1,85 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Ayush Dixit 👋</h1>
+<h3 align="center">Building secure, scalable systems — from ML-powered firewalls to distributed backends</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-dixit-0b789230b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Dixit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ayushdixitvsecpanki@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ayushdixitvsecpanki-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:533483&height=220&section=header&text=AYUSH%20DIXIT&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn&stroke=e94560&strokeWidth=2" width="100%"/>
+## 🚀 About Me
 
-</div>
+- 🔐 I build things at the intersection of application security and machine learning
+- 🧠 Deep interest in using Transformers / deep learning for real-time threat detection
+- ⚙️ Comfortable across the stack — from distributed backend systems to security tooling
+- 🌱 Currently exploring low-level system design and production-grade ML pipelines
+- 📫 Reach me at ayushdixitvsecpanki@gmail.com
 
----
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=533483&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Scalable+Backend+Systems;Machine+Learning+in+Production;End-to-End+ML+Pipelines;From+Model+to+Deployment)
+## 🔭 Featured Projects
 
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🛡️ <a href="https://github.com/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline">Transformer-based WAF Pipeline</a></h4>
+      <p>A deep learning-powered Web Application Firewall that uses a Transformer encoder to detect and mitigate SQL Injection, XSS, CSRF, Path Traversal, and Command Injection in real time — with a full training → inference → FastAPI serving pipeline.</p>
+      <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-red?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-teal?style=flat-square&logo=fastapi&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h4>🕵️ <a href="https://github.com/ayushdixit1-av/vet-project">Web App Security Auditing Toolkit</a></h4>
+      <p>A security auditing toolkit for web applications — automated vulnerability scanning, reconnaissance, and reporting to help identify weaknesses before attackers do.</p>
+      <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Security-black?style=flat-square&logo=shieldsdotio&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h4>⚡ <a href="https://github.com/ayushdixit1-av/Distributed-Task-Queue">Distributed Task Queue</a></h4>
+      <p>A production-grade distributed task queue built from scratch in Python and Redis — no Celery, no heavy frameworks. Features async task processing, a worker pool, auto-retry with exponential backoff, a dead-letter queue, worker heartbeat monitoring, and a real-time web dashboard.</p>
+      <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-red?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
----
+## 📊 GitHub Stats
 
-### 🧑‍💻 About Me
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushdixit1-av&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdixit1-av&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdixit1-av&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+## 🤝 Connect with Me
 
-- 🔧 I'm currently building **ML-powered backend systems**
-- 🧠 Currently learning **Deep Learning, LLMs, and System Design**
-- 💡 Exploring **Transformer Architectures, MLOps, and Scalable APIs**
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-- ⚡ Fun fact: *I deploy models before I deploy my mood*
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-dixit-0b789230b/">
+    <img src="https://img.shields.io/badge/-Ayush%20Dixit-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayushdixitvsecpanki@gmail.com">
+    <img src="https://img.shields.io/badge/-ayushdixitvsecpanki@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
 
----
-
-### 🏆 Projects
-
-| | Project | Tech Stack | Description |
-|---|---|---|---|
-| 🐾 | [**VetCrack**](https://vetcrack.com) | `Python` `LLM` `React` | AI-Powered Exam Prep Platform for Veterinary Students |
-| 🛡️ | [**WAF Transformer**](https://github.com/ayushdixit1-av/Transformer-based-End-to-End-Web-Application-Firewall-WAF-Pipeline) | `PyTorch` `FastAPI` `Docker` | Transformer-based End-to-End Web Application Firewall |
-| ⚡ | [**Distributed Task Queue**](https://github.com/ayushdixit1-av/Distributed-Task-Queue) | `Redis` `Python` `Docker` | Scalable Async Task Processing System |
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-#### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-#### ML / AI
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-#### Web & Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushdixit1-av&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=e94560&icon_color=533483&text_color=c9d1d9&ring_color=e94560&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdixit1-av&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=e94560&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdixit1-av&theme=tokyonight&background=0d1117&hide_border=true&ring=e94560&fire=533483&currStreakLabel=c9d1d9&sideLabels=c9d1d9" width="70%" />
-
-</div>
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushdixit1-av&bg_color=0d1117&color=e94560&line=533483&point=ffffff&area=true&area_color=1a1a2e&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🏅 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayushdixit1-av&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&bg_color=0d1117&stroke=e94560&ring=e94560&fire=533483&label_color=1a1a2e)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 💡 Random Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 Visitor Count
-
-<img src="https://komarev.com/ghpvc/?username=ayushdixit1-av&color=e94560&style=for-the-badge&label=PROFILE+VIEWS&label_color=1a1a2e" />
-
----
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://)
-
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/ayushdixit1-av">ayushdixit1-av</a></i></p>
