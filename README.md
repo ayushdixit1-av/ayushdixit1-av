@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:533483&height=220&section=header&text=AYUSH%20DIXIT&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=ML%20Engineer%20%7C%20Security%20Researcher%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn&stroke=e94560&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:533483&height=220&section=header&text=AYUSH%20DIXIT&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn&stroke=e94560&strokeWidth=2" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=533483&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Intelligent+Security+Systems;Transformer-Based+Threat+Detection;End-to-End+ML+Pipelines+for+Production;From+Research+to+Deployment)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=533483&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Scalable+Backend+Systems;Machine+Learning+in+Production;End-to-End+ML+Pipelines;From+Model+to+Deployment)
 
 </div>
 
@@ -18,11 +18,11 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-- 🔬 I'm currently working on **Transformer-based WAF Pipeline**
-- 🧠 Currently learning **Deep Learning, NLP, and Computer Security**
-- 💡 Exploring **LLMs, Attention Mechanisms, and Adversarial ML**
+- 🔧 I'm currently building **ML-powered backend systems**
+- 🧠 Currently learning **Deep Learning, LLMs, and System Design**
+- 💡 Exploring **Transformer Architectures, MLOps, and Scalable APIs**
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-- ⚡ Fun fact: *The best firewall understands the attack*
+- ⚡ Fun fact: *I deploy models before I deploy my mood*
 
 ---
 
