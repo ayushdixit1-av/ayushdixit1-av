@@ -194,7 +194,12 @@ I design and build **high-throughput backend infrastructure**, **distributed coo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdixit1-av&bg_color=0d1117&color=e94560&line=533483&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushdixit1-av&theme=tokyonight" width="100%" alt="Contribution & Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdixit1-av&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&langs_count=8" height="155" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushdixit1-av&theme=tokyonight" height="155" alt="Repos Per Language"/>
 </p>
 
 ---
